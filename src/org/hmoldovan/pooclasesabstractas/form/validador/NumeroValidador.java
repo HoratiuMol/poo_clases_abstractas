@@ -2,7 +2,7 @@ package org.hmoldovan.pooclasesabstractas.form.validador;
 
 public class NumeroValidador extends Validador{
 
-    protected String mensaje="el campo debe de ser número";
+    protected String mensaje="el campo %s debe de ser número";
 
     @Override
     public void setMensaje() {

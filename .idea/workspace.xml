@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13a7a11f-284a-4bf9-a58c-1f810a0d2eea" name="Changes" comment="1st commit">
-      <change afterPath="$PROJECT_DIR$/src/org/hmoldovan/pooclasesabstractas/form/validador/LargoValidador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/hmoldovan/pooclasesabstractas/form/validador/NoNuloValidador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/hmoldovan/pooclasesabstractas/form/validador/NumeroValidador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/hmoldovan/pooclasesabstractas/form/validador/RequeridoValidador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/hmoldovan/pooclasesabstractas/form/validador/Validador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/hmoldovan/pooclasesabstractas/form/validador/mensaje/MensajeFormateable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/hmoldovan/pooclasesabstractas/form/EjemploForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/hmoldovan/pooclasesabstractas/form/EjemploForm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/hmoldovan/pooclasesabstractas/form/elementos/ElementoForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/hmoldovan/pooclasesabstractas/form/elementos/ElementoForm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/hmoldovan/pooclasesabstractas/form/validador/LargoValidador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/hmoldovan/pooclasesabstractas/form/validador/LargoValidador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/hmoldovan/pooclasesabstractas/form/validador/NoNuloValidador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/hmoldovan/pooclasesabstractas/form/validador/NoNuloValidador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/hmoldovan/pooclasesabstractas/form/validador/NumeroValidador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/hmoldovan/pooclasesabstractas/form/validador/NumeroValidador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/hmoldovan/pooclasesabstractas/form/validador/RequeridoValidador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/hmoldovan/pooclasesabstractas/form/validador/RequeridoValidador.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +20,8 @@
       <list>
         <option value="HTML File" />
         <option value="Class" />
+        <option value="package-info" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -80,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688751489656</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1st commit">
+      <created>1688861836365</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688861836381</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +114,9 @@
           <option name="timeStamp" value="1" />
         </breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception" />
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
 </project>
